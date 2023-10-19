@@ -9,7 +9,7 @@ docker-compose*
 README.md
 LICENSE
 .vscode
-dist
+# dist
 dist_electron
 build
 images
